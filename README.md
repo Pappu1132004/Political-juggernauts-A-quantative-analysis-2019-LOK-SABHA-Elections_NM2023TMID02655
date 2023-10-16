@@ -3,4 +3,4 @@ Dashboard1 public link: https://public.tableau.com/app/profile/pappu.m2650/viz/L
 Dashboard2 public link: https://public.tableau.com/app/profile/pappu.m2650/viz/LOKSABHA2019Analysis/Dashboard2?publish=yes
 story public link: https://public.tableau.com/app/profile/pappu.m2650/viz/LOKSABHA2019Analysis/Story1?publish=yes 
 Tableau public link:http://Public.tableau.com/app/profile/pappu.m2650/vizzes
-video demonstration link: https://github.com/Pappu1132004/Political-juggernauts-A-quantative-analysis-2019-LOK-SABHA-Elections_NM2023TMID02655/blob/ae5172022dedacf7afbaa4919f9e4c553b83bf67/project.mp3
+video demonstration link:https://drive.google.com/file/d/1NLrtF0hyYQ0esqhzfuCYXUovksy9LWfC/view?usp=drivesdk
